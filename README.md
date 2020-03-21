@@ -203,4 +203,4 @@ The script also collects usernames of users who commented on the posts and saves
 
 <hr />
 
-###### Have Fun & Feel Free to report any issues
+###### MR.H4M0 Script
